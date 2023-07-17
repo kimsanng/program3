@@ -9,7 +9,6 @@ footer{display: none;}
 .grow10_inner li span {color:#6d8eca;}
 .grow10_inner ul li {line-height: 1.7rem;font-weight: 500;} 
 /* .grow10_inner > div {width:30%;} */
-.grow10_inner .grow10_left {}
 .grow10_ban {width: 1200px;margin:0 auto;}
 /* .grow10_inner .grow10_radar {margin:0 10px 0 0;} */
 #radarChartExample {margin: 0 auto;width:400px !important;height:400px !important;}
